@@ -17,3 +17,17 @@ $ python online.py
 
 オフライン時: 
 $ python offline.py
+
+# forecast
+天気予報を簡易に表示することを目的としたクローラ  
+`http://www.jma.go.jp/`から選択した地域の天気予報を取得し表示するプログラム  
+引数になんでもいいので追加すれば地域選択から実行  
+引数が指定されなければ直近の選択地域の天気予報を表示する  
+  
+## 使用方法
+  
+地域選択:  
+$ python forecast.py a
+  
+天気予報表示:  
+$ python forecast.py

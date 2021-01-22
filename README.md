@@ -4,7 +4,7 @@
 オフラインでも確認ができるよう,最新データをcsvに保存している  
   
 本プログラムはpython3.Xでの実行を前提としてる  
-また,beautifulsoup4とprettytableを用いるので導入が必要 
+また,beautifulsoup4とprettytableが必要 
 
 ## 導入
 `$ git clone https://github.com/H4TM4N/weather.git`
